@@ -1,1 +1,1 @@
-# HackerCamp-2018-solutions
+# HackerCamp-2019-solutions
